@@ -4,7 +4,7 @@
 
 ## Welcome to Lemur Pages
 
-![Lemur](/pictures/512px-Lemur_catta_2018.jpg | width=100)
+![Lemur](/pictures/512px-Lemur_catta_2018.jpg)
 <br>
 You can use the [editor on GitHub](https://github.com/maxodsbjerg/hjemmeside/edit/master/index.md) to maintain and preview 
 the content for your website in Markdown files.
