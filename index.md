@@ -4,6 +4,7 @@
 
 ## Welcome to Lemur Pages
 
+<img src="/pictures/512px-Lemur_catta_2018.jpg" height="200">
 ![Lemur](/pictures/512px-Lemur_catta_2018.jpg)
 <br>
 You can use the [editor on GitHub](https://github.com/maxodsbjerg/hjemmeside/edit/master/index.md) to maintain and preview 
